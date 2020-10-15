@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background: #faf7f7;
+}
+table {
+    border: solid lightgray;
+    margin: 50px auto auto auto;
+    width: 500px;
+}
+
+.time {
+    font-weight: bold;
+    width: 50px;
+    text-align: center;
+}
+.blue {
+    border-radius: 4px;
+    background-color: rgb(11, 162, 255)
+}
+
+.rose {
+    text-align: center;
+    border-radius: 4px;
+    background-color: rgb(255, 86, 156);
+}
+
+.green {
+    border-radius: 4px;
+    background-color: lightgreen;
+}
+
+.orange {
+    border-radius: 4px;
+    background-color: orange;
+}
+
+.lightblue {
+    border-radius: 4px;
+    background-color: lightskyblue;
+}
+#light {
+    opacity: 0.5;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
